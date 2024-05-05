@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS, NextJS, NodeJS**
 
-- 💬 Ask me about **Frontend, UI Designer**
+- 💬 Ask me about **Frontend, UI Design**
 
 - 📫 How to reach me **thoquan150903@gmail.com**
 
