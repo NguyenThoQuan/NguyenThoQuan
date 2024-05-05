@@ -1,6 +1,6 @@
 ![MasterHead](https://wallpapercave.com/wp/wp9641797.png)
 <h1 align="center">Hi 👋, I'm Nguyen Tho Qan</h1>
-<h3 align="center">Frontend Developer / UI Designer</h3>
+<h3 align="center">Frontend Developer / UI Design</h3>
 <img align="right" alt="Coding" width="400" src="https://designerapp.officeapps.live.com/designerapp/document.ashx?path=/16e30112-942a-4429-8e72-640c49c6edcc/UserAssets/dalle-5c2133b1-1729-4266-9ee0-72034a0084c00251690595477402921700.jpg&dcHint=IndiaCentral&fileToken=f7c04198-7151-4a59-b2ff-7e5d27131fe1">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyenthoquan&label=Profile%20views&color=0e75b6&style=flat" alt="nguyenthoquan" /> </p>
